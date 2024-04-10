@@ -20,7 +20,7 @@ maximoMulta<-0
 
         para i de 1 ate qtdMotorista passo 1 faca
 
-            escreval("Informe o Número da carteira de motorista :")
+            escreval("Informe o NÃºmero da carteira de motorista :")
             leia(numeroCarteiraMotorista)
                 se (numeroCarteiraMotorista >=1 )e (numeroCarteiraMotorista <=4327)entao
 
@@ -44,14 +44,14 @@ maximoMulta<-0
                         fimpara
 
                                recursoArrecadado <- recursoArrecadado+somaTotalMulta
-                        escreval("O valor da divida desse motorista é de : R$ ", somaTotalMulta)
+                        escreval("O valor da divida desse motorista ï¿½ de : R$ ", somaTotalMulta)
 
                 senao
-                    escreval("NUMERO DE CARTEIRA INVÁLIDO!!!")
+                    escreval("NUMERO DE CARTEIRA INVÃLIDO!!!")
                 fimse
         fimpara
-               escreval("O numero da carteira do motorista com a maior quantidade de multas é :",carteiraMaior)
-               escreval("O valor dos recursos arrecadados é : R$", recursoArrecadado)
+               escreval("O numero da carteira do motorista com a maior quantidade de multas ï¿½ :",carteiraMaior)
+               escreval("O valor dos recursos arrecadados ï¿½ : R$", recursoArrecadado)
 
 
 fimalgoritmo

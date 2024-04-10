@@ -16,6 +16,7 @@ var
 
 inicio
 
+
     escreval("Quantos Sanduiches vocë irá produzir?")
     leia(qtdSanduiche)
     escreval("Qual o valor do Kg queijo ?")

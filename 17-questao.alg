@@ -1,4 +1,4 @@
-algoritmo "Nome do Programa"
+algoritmo "Questao17"
 
 var
 i, j : inteiro 

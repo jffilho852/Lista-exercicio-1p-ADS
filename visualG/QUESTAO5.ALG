@@ -50,8 +50,8 @@ limpatela()
 mediaNumPares <- valorPar/ par
 mediaGeral <- (valorGeral)/(par + impar )
 
-escreval("A média geral de todos os valores digitados é : ", mediaGeral )
-escreval("a media dos valores de numeros pares é: ", mediaNumPares)
+escreval("A media geral de todos os valores digitados Ã© : ", mediaGeral )
+escreval("a media dos valores de numeros pares Ã©: ", mediaNumPares)
 escreval( "Voce digitou :",par, " numeros pares ")
 escreval( "Voce digitou :",impar, " numero/s impares ")
 

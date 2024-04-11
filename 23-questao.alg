@@ -1,4 +1,4 @@
-algoritmo "Nome do Programa"
+algoritmo "Questao23"
 
 var
 

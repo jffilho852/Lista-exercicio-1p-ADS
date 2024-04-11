@@ -23,7 +23,4 @@ inicio
         fimse
 
         
-
-
-
 fimalgoritmo

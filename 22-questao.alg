@@ -1,4 +1,4 @@
-algoritmo "Nome do Programa"
+algoritmo "Questao22"
 
 var
 salarioMensal, percentualReajuste : real 
